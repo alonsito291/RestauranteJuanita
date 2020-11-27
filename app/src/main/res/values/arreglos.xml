@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Sopas">
+        <item></item>
+        <item>Crema de Maiz</item>
+        <item>Macarrones</item>
+        <item>Crema de Moraya</item>
+        <item>Caldo Blanco</item>
+    </string-array>
+
+    <string-array name="Segundos">
+        <item></item>
+        <item>Arroz a la Cubana</item>
+        <item>Arroz con Pollo</item>
+        <item>Aji de Gallina</item>
+        <item>Saltado de Pollo</item>
+    </string-array>
+
+    <string-array name="Postres">
+        <item></item>
+        <item>Ensalada de Fruta</item>
+        <item>Helado de Vainilla</item>
+        <item>Gelatina</item>
+        <item>Frutas</item>
+    </string-array>
+
+    <string-array name="Bebidas">
+        <item></item>
+        <item>Gaseosa Persona</item>
+        <item>Gaseosa de 1L</item>
+        <item>Gaseosa de 2L</item>
+        <item>Cerveza 620ML</item>
+    </string-array>
+
+    <string-array name="Extra">
+        <item></item>
+        <item>Milanesa de Pollo</item>
+        <item>Costillar Frito</item>
+        <item>Cuy al Horno</item>
+        <item>Bisteck Montado</item>
+    </string-array>
+
+    <string-array name="CantSopa">
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="CantSegundo">
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="CantPostres">
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="CantBebida">
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="CantExtra">
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="Mesa">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
